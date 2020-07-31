@@ -1,6 +1,3 @@
-# LetsUpgrade-Blockchain-es
-Blockchain Essentials Code
-
 ## Solidity File Code for ReportCard Project
 pragma solidity ^0.4.17 < 0.6.12;
 
